@@ -1,24 +1,3 @@
-# About ME 💬 :
-
-### - I'm 19 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
-
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
-
-</br>
-</br>
-</br>
-
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> আসসালামু আলাইকুম (As-salamu alaykum)❤️, I'm SK Kamal Hossain! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Technical Lead at <a href="#">######
@@ -73,6 +52,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
 
 
 
