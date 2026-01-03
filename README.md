@@ -4,8 +4,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
@@ -47,6 +45,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
 
 
 
