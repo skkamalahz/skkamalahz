@@ -21,7 +21,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx skkamalukch
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
@@ -66,5 +66,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
 
 
