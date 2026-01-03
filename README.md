@@ -18,7 +18,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 # About ME 💬 :
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
-
+</br>
 **🐱 My GitHub Data** 
 
 > 📦 358.1 kB Used in GitHub's Storage 
@@ -32,7 +32,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 > 🔑 32 Private Repositories 
  >
 
-</br>
 </br>
 </br>
 **I Mostly Code in JavaScript** 
@@ -52,6 +51,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+
 
 
 
